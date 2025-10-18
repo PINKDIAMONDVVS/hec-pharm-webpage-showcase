@@ -1,4 +1,4 @@
-# HEC Pharm Interactive Platform Showcase
+# HEC Pharm 3D Interactive Webpage Showcase
 
 > **Note**: This is a showcase repository. The source code is proprietary and protected under NDA. This repository demonstrates the project's features, architecture, and outcomes without exposing confidential code.
 
