@@ -5,7 +5,7 @@
 <div align="center">
   <img src="assets/logo-placeholder.png" alt="HEC Pharm Logo" width="200"/>
   
-  ### 🧬 Next-Generation Pharmaceutical Platform
+  ### 🧬 Next-Generation Pharmaceutical Webpage
   
   [![Next.js](https://img.shields.io/badge/Next.js-15.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -25,7 +25,6 @@ HEC Pharm needed a modern web platform that could:
 - Present complex molecular data in an intuitive, interactive format
 - Engage medical professionals with immersive 3D visualizations
 - Maintain enterprise-level security and performance
-- Scale to support thousands of concurrent users
 
 ### 💡 The Solution
 
@@ -127,56 +126,6 @@ Built a full-stack application leveraging the latest web technologies to create 
 
 ---
 
-## 📈 Project Impact & Metrics
-
-### Performance Achievements
-- **99.9%** uptime since launch
-- **<1s** average page load time
-- **60fps** 3D rendering on target devices
-- **95+** Lighthouse performance score
-
-### Business Impact
-- **50%** increase in user engagement
-- **3x** longer average session duration
-- **40%** reduction in support tickets
-- **92%** user satisfaction rating
-
-### Technical Metrics
-- **0** critical security vulnerabilities
-- **100%** test coverage for critical paths
-- **<5ms** API response times
-- **A+** SSL security rating
-
----
-
-## 🏗️ Development Process
-
-### Phase 1: Research & Design (2 weeks)
-- Stakeholder interviews
-- User journey mapping
-- Technical architecture planning
-- Wireframing and prototyping
-
-### Phase 2: Core Development (8 weeks)
-- Next.js application setup
-- 3D visualization implementation
-- API integration
-- Authentication system
-
-### Phase 3: Enhancement & Optimization (4 weeks)
-- Performance optimization
-- Advanced animations
-- Cross-browser testing
-- Security hardening
-
-### Phase 4: Deployment & Launch (2 weeks)
-- Production deployment
-- Load testing
-- User training
-- Post-launch support
-
----
-
 ## 🔧 Technical Highlights
 
 ### Advanced 3D Implementation
@@ -201,18 +150,6 @@ const MoleculeViewer = () => {
 - OWASP compliance
 - Regular security audits
 - Protected API endpoints
-
----
-
-## 💭 Testimonials
-
-> "The platform has transformed how our medical professionals interact with pharmaceutical data. The 3D visualizations make complex information instantly understandable."
-> 
-> **— Senior Director, HEC Pharm USA**
-
-> "Technical execution was flawless. The team delivered a platform that exceeds our performance requirements while maintaining an exceptional user experience."
-> 
-> **— IT Manager, HEC Pharm USA**
 
 ---
 
