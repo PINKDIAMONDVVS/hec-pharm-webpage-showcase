@@ -17,7 +17,7 @@
 
 ## 🎯 Project Overview
 
-Developed an enterprise-grade interactive platform for HEC Pharm USA, revolutionizing how medical professionals interact with pharmaceutical data through cutting-edge 3D visualizations and immersive user experiences.
+Developed an enterprise-grade interactive webpage for HEC Pharm USA, revolutionizing how medical professionals interact with pharmaceutical data through cutting-edge 3D visualizations and immersive user experiences.
 
 ### 🎭 The Challenge
 
