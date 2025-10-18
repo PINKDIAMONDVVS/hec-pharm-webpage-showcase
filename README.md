@@ -204,17 +204,6 @@ const MoleculeViewer = () => {
 
 ---
 
-## 🎥 Demo
-
-<div align="center">
-  <a href="#" onclick="return false;">
-    <img src="assets/video-thumbnail.png" alt="Demo Video" width="800"/>
-  </a>
-  <p><em>Demo video available upon request due to proprietary content</em></p>
-</div>
-
----
-
 ## 💭 Testimonials
 
 > "The platform has transformed how our medical professionals interact with pharmaceutical data. The 3D visualizations make complex information instantly understandable."
@@ -224,63 +213,6 @@ const MoleculeViewer = () => {
 > "Technical execution was flawless. The team delivered a platform that exceeds our performance requirements while maintaining an exceptional user experience."
 > 
 > **— IT Manager, HEC Pharm USA**
-
----
-
-## 🏆 Recognition
-
-- Selected for internal innovation showcase
-- Praised for exceptional performance metrics
-- Recognized for accessibility compliance
-- Featured in company's digital transformation success stories
-
----
-
-## 📚 Lessons Learned
-
-### Technical Insights
-- Importance of early performance optimization for 3D web apps
-- Benefits of TypeScript in large-scale applications
-- Value of comprehensive testing for complex interactions
-- Critical role of progressive enhancement
-
-### Process Improvements
-- Regular stakeholder demos accelerated feedback loops
-- Incremental 3D feature rollout reduced risk
-- Component-driven development improved maintainability
-- Documentation-first approach streamlined onboarding
-
----
-
-## 🔮 Future Enhancements
-
-While the current platform is in production, potential future enhancements include:
-- AR/VR capabilities for immersive experiences
-- AI-powered recommendation engine
-- Advanced data analytics features
-- Multi-language support
-- Blockchain integration for data integrity
-
----
-
-## 🤝 Professional Impact
-
-This project demonstrates expertise in:
-- **Modern Web Development**: Next.js, React, TypeScript
-- **3D Graphics Programming**: Three.js, WebGL, React Three Fiber
-- **Enterprise Architecture**: Scalability, Security, Performance
-- **UI/UX Design**: Animations, Interactions, Responsive Design
-- **Project Management**: Agile methodology, Stakeholder communication
-
----
-
-## 📞 Contact
-
-For more information about this project or to request a private demo, please reach out:
-
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio Website]
 
 ---
 
