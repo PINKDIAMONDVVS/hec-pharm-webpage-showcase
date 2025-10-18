@@ -11,6 +11,14 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
   [![Three.js](https://img.shields.io/badge/Three.js-r176-black?style=flat-square&logo=three.js)](https://threejs.org/)
   [![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)]()
+  
+  <br />
+  
+  ### 🌐 [View Live Demo](https://www.hecpharm.us/)
+  
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00DC82?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </div>
 
 ---
@@ -19,9 +27,11 @@
 
 Developed an enterprise-grade interactive webpage for HEC Pharm USA, revolutionizing how medical professionals interact with pharmaceutical data through cutting-edge 3D visualizations and immersive user experiences.
 
+**🔗 Live Website: [https://www.hecpharm.us/](https://www.hecpharm.us/)**
+
 ### 🎭 The Challenge
 
-HEC Pharm needed a modern web platform that could:
+HEC Pharm needed a modern webpage that could:
 - Present complex molecular data in an intuitive, interactive format
 - Engage medical professionals with immersive 3D visualizations
 - Maintain enterprise-level security and performance
@@ -33,6 +43,8 @@ Built a full-stack application leveraging the latest web technologies to create 
 ---
 
 ## ✨ Key Features
+
+> Experience these features live at [www.hecpharm.us](https://www.hecpharm.us/)
 
 ### 🌍 Interactive 3D Globe
 - Real-time data visualization on a rotating globe
@@ -51,7 +63,7 @@ Built a full-stack application leveraging the latest web technologies to create 
 - Advanced filtering and search
 
 ### 🎬 Multimedia Integration
-- Imemersive videos
+- Immersive videos
 - Interactive tutorials
 - 3D interactive objects
 - Mobile-first approach
@@ -91,43 +103,81 @@ Built a full-stack application leveraging the latest web technologies to create 
 ## 📸 Screenshots
 
 <div align="center">
-  <h3>🏠 Immersive Landing Heros</h3>
-  <img src="screenshots/section-hero.png" alt="Landing Page" width="400"/>
-  <img src="screenshots/section-careers.png" alt="Landing Page" width="400"/>
-  <!-- <p><em>Immersive landing heros</em></p> -->
+  <p><em>Click any screenshot to visit the live site</em></p>
+</div>
+
+<div align="center">
+  <h3>🏠 Immersive Landing Heroes</h3>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-hero.png" alt="Landing Page" width="400"/>
+  </a>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-careers.png" alt="Landing Page" width="400"/>
+  </a>
+  <!-- <p><em>Immersive landing heroes</em></p> -->
 </div>
 
 <div align="center">
   <h3>🌍 3D Interactive Objects</h3>
-  <img src="screenshots/section-footprint.png" alt="3D Globe Demo" width="400"/>
-  <img src="screenshots/section-global-layout.png" alt="Analytics Dashboard" width="400"/>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-footprint.png" alt="3D Globe Demo" width="400"/>
+  </a>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-global-layout.png" alt="Analytics Dashboard" width="400"/>
+  </a>
   <!-- <p><em>Real-time global pharmaceutical data visualization</em></p> -->
 </div>
 
 <div align="center">
   <h3>🧬 Molecular Blocks</h3>
-  <img src="screenshots/section-ecosystem.png" alt="Molecular Visualization" width="400"/>
-  <img src="screenshots/section-factories.png" alt="Molecular Visualization" width="400"/>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-ecosystem.png" alt="Molecular Visualization" width="400"/>
+  </a>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-factories.png" alt="Molecular Visualization" width="400"/>
+  </a>
   <!-- <p><em>Interactive 3D molecular structure exploration</em></p> -->
 </div>
 
 <div align="center">
   <h3>📱 Live Statistics</h3>
-  <img src="screenshots/section-about.png" alt="Mobile View" width="400"/>
-  <img src="screenshots/section-statistics.png" alt="Mobile View" width="400"/>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-about.png" alt="Mobile View" width="400"/>
+  </a>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-statistics.png" alt="Mobile View" width="400"/>
+  </a>
   <!-- <p><em>Fully responsive design optimized for all devices</em></p> -->
 </div>
 
 <div align="center">
   <h3>📊 Searchable Products List</h3>
-  <img src="screenshots/section-product.png" alt="Mobile View" width="800"/>
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="screenshots/section-product.png" alt="Mobile View" width="800"/>
+  </a>
   <!-- <p><em>Comprehensive data analytics and reporting</em></p> -->
+</div>
+
+---
+
+## 🚀 Experience the Live Demo
+
+<div align="center">
+  <h3>Visit the production website to experience all features:</h3>
+  
+  <a href="https://www.hecpharm.us/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_www.hecpharm.us-Visit_Live_Site-00DC82?style=for-the-badge" alt="Visit Website" />
+  </a>
+  
+  <p><em>Best viewed on desktop for full 3D experience</em></p>
 </div>
 
 ---
 
 <div align="center">
   <sub>Built with ❤️ using Next.js, Three.js, and modern web technologies</sub>
+  <br />
+  <sub>Live at <a href="https://www.hecpharm.us/">www.hecpharm.us</a></sub>
 </div>
 
 ---
