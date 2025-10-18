@@ -126,33 +126,6 @@ Built a full-stack application leveraging the latest web technologies to create 
 
 ---
 
-## 🔧 Technical Highlights
-
-### Advanced 3D Implementation
-```typescript
-// Example of optimized 3D rendering approach
-const MoleculeViewer = () => {
-  // Efficient geometry instancing
-  // LOD (Level of Detail) implementation
-  // Custom shader materials
-  // Optimized render loops
-}
-```
-
-### Performance Optimization Strategies
-- Implemented custom WebGL optimizations
-- Used geometry instancing for repeated elements
-- Developed efficient frustum culling system
-- Created progressive loading for 3D assets
-
-### Security Measures
-- End-to-end encryption for sensitive data
-- OWASP compliance
-- Regular security audits
-- Protected API endpoints
-
----
-
 <div align="center">
   <sub>Built with ❤️ using Next.js, Three.js, and modern web technologies</sub>
 </div>
