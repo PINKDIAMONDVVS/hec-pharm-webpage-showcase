@@ -38,7 +38,6 @@ Built a full-stack application leveraging the latest web technologies to create 
 ### 🌍 Interactive 3D Globe
 - Real-time data visualization on a rotating globe
 - Smooth camera controls and animations
-- Location-based pharmaceutical data display
 - Custom markers and heat maps
 
 ### 🧪 Molecular Visualization
@@ -51,19 +50,12 @@ Built a full-stack application leveraging the latest web technologies to create 
 - Live data updates
 - Customizable widgets
 - Advanced filtering and search
-- Export capabilities
 
 ### 🎬 Multimedia Integration
-- Educational video content
+- Imemersive videos
 - Interactive tutorials
-- 3D model galleries
-- Audio narration support
-
-### 📱 Responsive Design
+- 3D interactive objects
 - Mobile-first approach
-- Touch-optimized 3D controls
-- Progressive Web App capabilities
-- Offline mode support
 
 ---
 
@@ -100,33 +92,37 @@ Built a full-stack application leveraging the latest web technologies to create 
 ## 📸 Screenshots
 
 <div align="center">
-  <h3>🏠 Landing Page</h3>
-  <img src="screenshots/landing-page.png" alt="Landing Page" width="800"/>
-  <p><em>Immersive landing experience with animated 3D elements</em></p>
+  <h3>🏠 Immersive Landing Heros</h3>
+  <img src="screenshots/section-hero.png" alt="Landing Page" width="400"/>
+  <img src="screenshots/section-careers.png" alt="Landing Page" width="400"/>
+  <!-- <p><em>Immersive landing heros</em></p> -->
 </div>
 
 <div align="center">
-  <h3>🌍 Interactive Globe</h3>
-  <img src="screenshots/3d-globe.gif" alt="3D Globe Demo" width="800"/>
-  <p><em>Real-time global pharmaceutical data visualization</em></p>
+  <h3>🌍 3D Interactive Objects</h3>
+  <img src="screenshots/section-footprint.png" alt="3D Globe Demo" width="400"/>
+  <img src="screenshots/section-global-layout.png" alt="Analytics Dashboard" width="400"/>
+  <!-- <p><em>Real-time global pharmaceutical data visualization</em></p> -->
 </div>
 
 <div align="center">
-  <h3>🧬 Molecular Viewer</h3>
-  <img src="screenshots/molecular-viewer.png" alt="Molecular Visualization" width="800"/>
-  <p><em>Interactive 3D molecular structure exploration</em></p>
+  <h3>🧬 Molecular Blocks</h3>
+  <img src="screenshots/section-ecosystem.png" alt="Molecular Visualization" width="400"/>
+  <img src="screenshots/section-factories.png" alt="Molecular Visualization" width="400"/>
+  <!-- <p><em>Interactive 3D molecular structure exploration</em></p> -->
 </div>
 
 <div align="center">
-  <h3>📊 Analytics Dashboard</h3>
-  <img src="screenshots/dashboard.png" alt="Analytics Dashboard" width="800"/>
-  <p><em>Comprehensive data analytics and reporting</em></p>
+  <h3>📱 Live Statistics</h3>
+  <img src="screenshots/section-about.png" alt="Mobile View" width="400"/>
+  <img src="screenshots/section-statistics.png" alt="Mobile View" width="400"/>
+  <!-- <p><em>Fully responsive design optimized for all devices</em></p> -->
 </div>
 
 <div align="center">
-  <h3>📱 Mobile Experience</h3>
-  <img src="screenshots/mobile-responsive.png" alt="Mobile View" width="400"/>
-  <p><em>Fully responsive design optimized for all devices</em></p>
+  <h3>📊 Searchable Products List</h3>
+  <img src="screenshots/section-product.png" alt="Mobile View" width="800"/>
+  <!-- <p><em>Comprehensive data analytics and reporting</em></p> -->
 </div>
 
 ---
